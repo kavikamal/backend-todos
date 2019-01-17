@@ -27,16 +27,16 @@ todos = {
         "due_date": None,
         "completed": False,
         "completed_on": None,
-        "created_on": "2018-12-30 12:47:46.264942",
-        "last_updated_on": "2019-1-03 12:47:46.264942"
+        "created_on": "2018-12-30 1:22:33.647848",
+        "last_updated_on": "2019-1-03 2:12:55.435435"
     },
     "2": {
         "title": "Swimming Lesson",
         "due_date": "soon",
         "completed": False,
         "completed_on": None,
-        "created_on": "2019-1-2 10:31:29.264935",
-        "last_updated_on": "2018-1-3 10:31:29.264935",
+        "created_on": "2019-1-2 1:22:33.647848",
+        "last_updated_on": "2018-1-3 2:12:55.435435",
     },
 }
 parser = reqparse.RequestParser()
